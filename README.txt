@@ -1,0 +1,2 @@
+JFrame是窗体
+JPlane是面板
